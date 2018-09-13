@@ -1,10 +1,13 @@
 _repo: Auf-silbernen-Gefilden-Ein-Mond-Roman_51386
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Lodygowski, Kasimir
     gutenberg_agent_id: '46389'
     url: http://www.gutenberg.org/2009/agents/46389
+covers:
+- cover_type: archival
+  image_path: 51386-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Zulawski, Jerzy
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '46396'
     url: http://www.gutenberg.org/2009/agents/46396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51386#Auf-silbernen-Gefilden-Ein-Mond-Roman
 gutenberg_issued: '2016-03-07'
 gutenberg_type: Text
 identifiers:
